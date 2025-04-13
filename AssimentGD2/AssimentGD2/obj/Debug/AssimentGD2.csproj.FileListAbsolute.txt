@@ -1,0 +1,13 @@
+D:\NETC#2\AssimentGD2\AssimentGD2\bin\Debug\AssimentGD2.exe.config
+D:\NETC#2\AssimentGD2\AssimentGD2\bin\Debug\AssimentGD2.exe
+D:\NETC#2\AssimentGD2\AssimentGD2\bin\Debug\AssimentGD2.pdb
+D:\NETC#2\AssimentGD2\AssimentGD2\obj\Debug\AssimentGD2.csproj.AssemblyReference.cache
+D:\NETC#2\AssimentGD2\AssimentGD2\obj\Debug\AssimentGD2.Form1.resources
+D:\NETC#2\AssimentGD2\AssimentGD2\obj\Debug\AssimentGD2.Properties.Resources.resources
+D:\NETC#2\AssimentGD2\AssimentGD2\obj\Debug\AssimentGD2.csproj.GenerateResource.cache
+D:\NETC#2\AssimentGD2\AssimentGD2\obj\Debug\AssimentGD2.csproj.CoreCompileInputs.cache
+D:\NETC#2\AssimentGD2\AssimentGD2\obj\Debug\AssimentGD2.exe
+D:\NETC#2\AssimentGD2\AssimentGD2\obj\Debug\AssimentGD2.pdb
+D:\NETC#2\AssimentGD2\AssimentGD2\obj\Debug\AssimentGD2.FormQuanLySach.resources
+D:\NETC#2\AssimentGD2\AssimentGD2\obj\Debug\AssimentGD2.FormDangNhap.resources
+D:\NETC#2\AssimentGD2\AssimentGD2\obj\Debug\AssimentGD2.FormLogin.resources
